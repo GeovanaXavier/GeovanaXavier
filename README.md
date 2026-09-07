@@ -1,4 +1,4 @@
-# Olá, eu sou a Geovana! 👋
+# Olá, eu sou a Geovana!
 
 Estudante de Tecnologia em Redes de Computadores.
 
