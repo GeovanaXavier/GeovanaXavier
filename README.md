@@ -16,22 +16,7 @@
 - Segurança de redes
 - Analise de vulnerabilidades
 - Orquestração de ambientes
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/GeovanaXavier">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeovanaXavier&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="GeovanaXavier's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=GeovanaXavier&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GeovanaXavier's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=GeovanaXavier&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Geovana Xavier's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GeovanaXavier&theme=tokyonight&radius=10" alt="GeovanaXavier's Activity Graph" />
-</p>
-
+- 
 ## Badges e Certificados
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
