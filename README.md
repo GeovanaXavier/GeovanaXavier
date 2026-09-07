@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Geovana%20Xavier&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevSecOps&descSize=18&descAlignY=55&textBg=false"/>
 
-<img src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" alt="Banner" width="50%" />
 
 ## 🧠 My Focus Areas
 - Segurança de redes
