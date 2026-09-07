@@ -32,6 +32,41 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GeovanaXavier&theme=tokyonight&radius=10" alt="GeovanaXavier's Activity Graph" />
 </p>
 
+## Badges e Certificados
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Background -->
+  <rect width="256" height="256" rx="24" fill="#1a1a2e"/>
+  
+  <!-- Red Hat logo circle -->
+  <circle cx="128" cy="110" r="72" fill="none" stroke="#EE0000" stroke-width="6"/>
+  
+  <!-- Red Hat logo (stylized) -->
+  <!-- Hat brim -->
+  <path d="M92 98 L164 98 L160 92 L96 92 Z" fill="#EE0000"/>
+  <!-- Hat top -->
+  <path d="M96 92 C96 78, 104 72, 128 72 C152 72, 160 78, 160 92 Z" fill="#EE0000"/>
+  <!-- Hat shadow/bottom -->
+  <path d="M92 98 L164 98 C164 104, 156 108, 128 108 C100 108, 92 104, 92 98 Z" fill="#CC0000"/>
+  <!-- Hat band -->
+  <rect x="96" y="92" width="64" height="4" fill="#FFFFFF" rx="1"/>
+  
+  <!-- Shadow man icon (administrator) -->
+  <!-- Body -->
+  <circle cx="128" cy="148" r="16" fill="#FFFFFF" opacity="0.9"/>
+  <!-- Shoulders -->
+  <path d="M96 190 C96 172, 112 164, 128 164 C144 164, 160 172, 160 190" fill="#FFFFFF" opacity="0.9"/>
+  
+  <!-- Level badge "I" -->
+  <circle cx="128" cy="210" r="20" fill="#EE0000" stroke="#FFFFFF" stroke-width="3"/>
+  <text x="128" y="216" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#FFFFFF">I</text>
+  
+  <!-- "RH" text -->
+  <text x="128" y="60" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#EE0000" letter-spacing="2">RED HAT</text>
+  
+  <!-- Subtitle -->
+  <text x="128" y="244" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8888AA" letter-spacing="1">SYSTEM ADMINISTRATOR</text>
+</svg>
 
 ## 🛠️ Languages & Tools
 
